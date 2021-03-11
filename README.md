@@ -65,7 +65,7 @@
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2>📌 Our team specializes in the following programming languages:...</h2>
+<h2>📌 Our team specializes in the following programming languages:...</h2> 
 <p align="center">	
 	<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
