@@ -36,7 +36,7 @@
 
 # See how it works:
 ----------------------
-- 📌 shorturl.at/wGVX4
+- 🔞 http://shorturl.at/wGVX4
 
 
 # How to ger:
