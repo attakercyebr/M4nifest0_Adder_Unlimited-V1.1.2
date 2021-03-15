@@ -34,6 +34,11 @@
 ----------------------
 - 📌 This tool is designed and developed for professionals and researchers. So do not target others and do not test them for no reason :)
 
+# See how it works:
+----------------------
+- 📌 shorturl.at/wGVX4
+
+
 # How to ger:
 ----------------------
 - 📌 Visit our channel or our site to download .
