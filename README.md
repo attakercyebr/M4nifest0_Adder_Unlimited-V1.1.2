@@ -30,6 +30,11 @@
 
 📌 Version 1 beta.
 
+##### Update Soft
+----------------------
+📌 Version 2 Alfa.
+
+
 # Disclaimer:
 ----------------------
 - 📌 This tool is designed and developed for professionals and researchers. So do not target others and do not test them for no reason :)
