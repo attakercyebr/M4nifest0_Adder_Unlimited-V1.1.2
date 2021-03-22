@@ -32,7 +32,7 @@
 
 ##### Update Soft
 ----------------------
-📌 Version 2 Alfa.
+📌 Version M4nifest0_Adder-Unlimited v1.1.2
 
 
 # Disclaimer:
