@@ -30,7 +30,7 @@
 
 📌 Version 1 beta.
 
-##### Update Soft
+#####  Update For V1.0.0 To V 1.1.2
 ----------------------
 📌 Version M4nifest0_Adder-Unlimited v1.1.2
 
