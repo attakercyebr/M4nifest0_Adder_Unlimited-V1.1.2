@@ -39,10 +39,10 @@
 ----------------------
 - 📌 This tool is designed and developed for professionals and researchers. So do not target others and do not test them for no reason :)
 
-# See how it works:
+# See how it works v1.0.0
 ----------------------
 - 🔞 http://shorturl.at/wGVX4
-
+- 🔞 V1.2.2  shorturl.at/avBG9
 
 # How to ger:
 ----------------------
